@@ -2,3 +2,8 @@
 name = "delim"
 version = "0.1.0"
 authors = ["Brian Ketelsen<bketelsen@gmail.com>"]
+
+[[bin]]
+# The name of a target is the name of the library that will be generated. This
+# is defaulted to the name of the package or project.
+name = "delim"
